@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foivospro&label=Profile%20views&color=0e75b6&style=flat" alt="foivospro" /> </p>
 
-- 🔭 I’m currently working on [Blockly for Unix](https://github.com/foivospro/blockly_unix)
+- 🔭 Currently working on [Blockly for Unix](https://github.com/foivospro/blockly_unix)
 
-- 🌱 I’m currently learning **JavaScript, Django, Express, React, Apex**
+- 🌱 Currently learning **JavaScript, Django, Express, React, Apex**
 
-- 👨‍💻 All of my projects are available at [https://detfolio.dmst.aueb.gr/students2021/foivproestakis/inetpub/kards10/index.html](https://detfolio.dmst.aueb.gr/students2021/foivproestakis/inetpub/kards10/index.html)
+- 👨‍💻 All the projects are available at [https://detfolio.dmst.aueb.gr/students2021/foivproestakis/inetpub/kards10/index.html](https://detfolio.dmst.aueb.gr/students2021/foivproestakis/inetpub/kards10/index.html)
 
-- 📫 How to reach me **t8210126@aueb.gr**
+- 📫 Contact **t8210126@aueb.gr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
