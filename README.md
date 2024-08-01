@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Foivos Proestakis</h1>
-<h3 align="center">A dedicated student at the Department of Management Science and Technology, specializing in Software Technologies and Data Analysis.</h3>
+<h3 align="center">Student at the Department of Management Science and Technology, specializing in Software Technologies and Data Analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foivospro&label=Profile%20views&color=0e75b6&style=flat" alt="foivospro" /> </p>
 
