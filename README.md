@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Foivos Proestakis</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foivospro&label=Profile%20views&color=0e75b6&style=flat" alt="foivospro" /> </p>
+
 - 🔭 Currently working on [Blockly for Unix](https://github.com/foivospro/blockly_unix)
 
 - 🌱 Currently learning **JavaScript, Django, Express, React, Apex**
