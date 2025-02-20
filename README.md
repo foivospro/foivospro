@@ -4,8 +4,6 @@
 
 - 🔭 Currently working on [Blockly for Unix](https://github.com/foivospro/blockly_unix)
 
-- 🌱 Currently learning **JavaScript, Django, Express, React, Apex**
-
 - 👨‍💻 All the projects are available at [https://detfolio.dmst.aueb.gr/students2021/foivproestakis/inetpub/kards10/index.html](https://detfolio.dmst.aueb.gr/students2021/foivproestakis/inetpub/kards10/index.html)
 
 - 📫 Contact **t8210126@aueb.gr**
