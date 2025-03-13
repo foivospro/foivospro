@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foivospro&label=Profile%20views&color=0e75b6&style=flat" alt="foivospro" /> </p>
 
-- 🔭 Currently working on [Blockly for Unix](https://github.com/foivospro/blockly_unix)
+- 🔭 Currently working on [Ublocks](https://ublocks.balab.aueb.gr/blockly_unix)
 
 - 👨‍💻 All the projects are available at [https://detfolio.dmst.aueb.gr/students2021/foivproestakis/inetpub/kards10/index.html](https://detfolio.dmst.aueb.gr/students2021/foivproestakis/inetpub/kards10/index.html)
 
-- 📫 Contact **t8210126@aueb.gr**
+- 📫 Contact **proestakis@aueb.gr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
