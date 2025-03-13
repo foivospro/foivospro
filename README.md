@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on [Ublocks](https://ublocks.balab.aueb.gr/blockly_unix)
 
-- 👨‍💻 All the projects are available at [https://detfolio.dmst.aueb.gr/students2021/foivproestakis/inetpub/kards10/index.html](https://detfolio.dmst.aueb.gr/students2021/foivproestakis/inetpub/kards10/index.html)
+- 👨‍💻 All the projects are available at [portfolio](https://detfolio.dmst.aueb.gr/students2021/foivproestakis/inetpub/kards10/index.html)
 
 - 📫 Contact **proestakis@aueb.gr**
 
