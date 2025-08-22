@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foivospro&label=Profile%20views&color=0e75b6&style=flat" alt="foivospro" /> </p>
 
-- 🔭 Currently working on [Ublocks](https://ublocks.balab.aueb.gr/blockly_unix)
+- 🔭 Currently working on [SecOPERA](https://secopera.eu/)
 
 - 👨‍💻 All the projects are available at [portfolio](https://detfolio.dmst.aueb.gr/students2021/foivproestakis/inetpub/kards10/index.html)
 
