@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on [SecOPERA](https://secopera.eu/)
 
-- 👨‍💻 All the projects are available at [portfolio](https://detfolio.dmst.aueb.gr/students2021/foivproestakis/inetpub/kards10/index.html)
+- 👨‍💻 All the projects are available at [portfolio](https://foivospro.github.io/detfolio/)
 
 - 📫 Contact **proestakis@aueb.gr**
 
